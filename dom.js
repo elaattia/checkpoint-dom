@@ -18,7 +18,7 @@ function show(){
     })
   }
   function heart(){
-    document.getElementById("heart").style.color=Red;
+    document.getElementById("heart").style.color="Red";
     
   }
   addd()
